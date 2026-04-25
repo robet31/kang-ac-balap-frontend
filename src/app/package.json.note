@@ -1,0 +1,15 @@
+# QR Scanner Dependencies
+
+Untuk mengaktifkan fitur QR Scanner, install package berikut:
+
+```bash
+npm install jsqr
+```
+
+atau
+
+```bash
+yarn add jsqr
+```
+
+Package jsqr digunakan untuk decode QR code dari image data di canvas.
