@@ -1,1 +1,1 @@
-fix: sanitize input to prevent injection - 2026-09-13
+refactor: simplify nested conditional - 2026-09-16
